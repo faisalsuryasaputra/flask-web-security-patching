@@ -1,0 +1,11 @@
+# System files (Mac)
+.DS_Store
+
+# Environment variables (PENTING: Jangan upload API Key)
+.env
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.log
